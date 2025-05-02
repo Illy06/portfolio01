@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Book Catalog</title>
+</head>
+
+<body>
+  <table>
+<thead>
+  <tr>
+    <th>Title</th>
+    <th>Author</th>
+    <th>Genre</th>
+    <th>Publication Year</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Il Maestro e Margherita</td>
+      <td>Michail Bulgakov</td>
+      <td>Romanzo filosofico</td>
+      <td>1967 </td>
+    </tr>
+    
+    <tr>
+      <td>Cent'anni di solitudine</td>
+      <td>Gabriel García Márquez</td>
+      <td>Realismo magico</td>
+      <td>1967</td>
+      </tr>
+    <tr>
+      <td>La montagna incantata</td>
+      <td>Thomas Mann</td>
+      <td>Romanzo filosofico</td>
+      <td>1924</td>
+      </tr>
+      <tr>
+        <td>Ulisse</td>
+        <td>James Joyce</td>
+        <td>Modernismo</td>
+        <td>1922</td>
+        </tr>
+        <tr>
+          <td>Delitto e Castigo</td>
+          <td>Fëdor Dostoevskij</td>
+          <td>Romanzo Psicologico</td>
+          <td>1866</td>
+        </tr>
+    </tbody>
+    <tfoot>
+      <tr>
+        <td colspan="4">Total Books: 5</td>
+        </tr>
+      </tfoot>
+    </table>
+</body>
+
+</html>
